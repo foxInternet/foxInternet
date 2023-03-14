@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vladimir Blinov aka Mister F0X</h1>
-<h3 align="center">Programmer, computer engineer from Russia.</h3>
+
+<h1 align="center">Hi there, I'm <a Vladimir Blinov aka Mister F0X</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Programmer, computer engineer from Russia. 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxinternet&label=Profile%20views&color=0e75b6&style=flat" alt="foxinternet" /> </p>
 
@@ -15,10 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxinternet&show_icons=true&locale=en&layout=compact" alt="foxinternet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foxinternet&show_icons=true&locale=en" alt="foxinternet" /></p>
-
-<h1 align="center">Hi there, I'm <a Vladimir Blinov aka Mister F0X</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer, computer engineer from Russia. 🇷🇺</h3>
 
 <!--
 **foxInternet/foxInternet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
