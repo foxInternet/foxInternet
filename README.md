@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+computer+engineer+from+Russia)](https://git.io/typing-svg)
 -->
+<--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+-->
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxInternet&layout=compact)](https://github.com/foxInternet/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
