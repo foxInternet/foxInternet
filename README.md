@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 -->
-<!---Для компактной версии
+<!-- Для компактной версии
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxInternet&layout=compact)](https://github.com/foxInternet/github-readme-stats)
 -->
-<!---Для подробной версии-->
+<!-- Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxInternet&repo=JAVA)](https://github.com/foxInternet/JAVA)
