@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 -->
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxInternet&repo=JAVA)](https://github.com/foxInternet/JAVA)
 
 ![](https://komarev.com/ghpvc/?username=foxInternet)
-<!--
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=foxInternet)](https://github.com/foxInternet/JAVA)
--->
+<!-- -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
+
