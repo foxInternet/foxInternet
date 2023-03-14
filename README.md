@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+computer+engineer+from+Russia)](https://git.io/typing-svg)
+//[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programmer+computer+engineer+from+Russia)](https://git.io/typing-svg)
