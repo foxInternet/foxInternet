@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxInternet)](https://github.com/foxInternet/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxInternet&repo=JAVA)](https://github.com/foxInternet/JAVA)
 
+![](https://komarev.com/ghpvc/?username=foxInternet)
+
